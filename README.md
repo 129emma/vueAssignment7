@@ -1,4 +1,4 @@
-# vue-cli
+# vue-cli (http://progressed.io/bar/10?title=progress)
 
 > A Vue.js project
 
