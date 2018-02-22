@@ -1,4 +1,4 @@
-# vue-cli (http://progressed.io/bar/10?title=progress)
+# vue-cli ![](https://img.shields.io/badge/created-Feb-blue.svg)
 
 > A Vue.js project
 
